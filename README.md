@@ -1,7 +1,5 @@
 # 501TweetAnalysis
 
-# Analysis of Russian Troll Tweets
-
 ## Project Setup
 
 ### Download Dataset
