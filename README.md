@@ -16,3 +16,10 @@
 Ensure you have Python installed on your system. Then, install the required packages using the following command:
 ```bash
 pip install -r requirements.txt
+```
+
+### Run Project
+Ensure you set previous step correctly. Then run project using the following command:
+```bash
+python3 main.py
+```
